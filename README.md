@@ -4,7 +4,6 @@ This is a simple Flutter project that demonstrates a basic login and signup scre
 
 ## Features
 - User-friendly Login screen
-- Signup screen with input validation
 - Navigation between Login and Signup pages
 - Clean and simple UI
 
