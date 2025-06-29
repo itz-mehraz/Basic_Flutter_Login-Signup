@@ -5,7 +5,7 @@ A simple Flutter project demonstrating a basic login and signup flow with form v
 
 ## Screenshots
 
-![Login Screen](./assets/Screenshot_2025-06-30_at_2.23.41_AM.png)
+![Uploading Screenshot 2025-06-30 at 2.23.41 AM.png…]()
 
 
 ## Features
